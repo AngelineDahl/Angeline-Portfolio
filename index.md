@@ -1,19 +1,17 @@
 # Angeline Nahjela Dahl
 
-### Biomedical Assembler @ Medtronic • IBM Certified Data Analyst • MS Student in Program Evaluation & Data Analytics
-
+### Biomedical Assembler @ Medtronic | Python, SQL, Cognos Analytics | IBM Certified Data Analyst | MS Student | Banking Operations Background
 Based in Andover, MN  
 angelinenahjela@gmail.com • (952) 380‑8144
+
 ---
 
 ## 🔍 About Me
-I am a data analyst with hands-on training in Python, pandas, SQL, and Cognos Analytics, specializing in data integrity, operational reliability, and process improvement. I bring over 10 years of experience in banking operations and 3 years in regulated biomedical production at Medtronic, where I support mission‑critical workflows with accuracy, compliance, and stability.
+I am a data analyst with experience in Python, SQL, Cognos Analytics, banking operations, and regulated biomedical production. I am currently pursuing an MS in Program Evaluation & Data Analytics, with strong skills in data integrity, anomaly detection, and workflow reliability.
 
-I am currently pursuing an MS in Program Evaluation & Data Analytics at Arizona State University. My background includes dual Bachelor’s degrees in Business Management and Organizational Leadership (Project Management), and recognition for leadership, reliability, and service excellence.
+I bring over 10 years of experience in banking operations and 3 years supporting mission‑critical biomedical production at Medtronic, where I ensure accuracy, compliance, and continuity in regulated technical environments. My academic background includes dual Bachelor’s degrees in Business Management and Organizational Leadership (Project Management), along with recognition for leadership, reliability, and service excellence.
 
-I am known for analytical problem solving, pattern detection, and supporting stable, production‑critical systems.
-
----
+I am known for analytical problem solving, pattern detection, and maintaining stable, high‑reliability workflows across complex systems.
 
 ## 🛠️ Skills
 - **Programming & Analytics:** Python, pandas, NumPy, SQL, R, Excel  
