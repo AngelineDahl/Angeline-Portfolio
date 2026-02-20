@@ -17,6 +17,12 @@ This section will showcase my work in data analysis, dashboards, visualizations,
 </nav>
 
 ---
+
+<footer style="text-align:center; font-size: 0.9em; color: #666;">
+  © 2026 Angeline Nahjela Dahl • Andover, MN • <a href="mailto:angelinenahjela@gmail.com">angelinenahjela@gmail.com</a>
+</footer>
+
+---
 ### 📊 Tempe Crash Data Analysis (Lab 5)
 **Tools:** R, dplyr, data wrangling  
 **Summary:** Analyzed Tempe crash data to identify patterns in accident locations, time-of-day trends, age group risks, and harmful accident types.  
