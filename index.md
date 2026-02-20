@@ -12,4 +12,4 @@ Welcome to my portfolio hub. This site connects all my professional links and pr
 - [LinkedIn](https://www.linkedin.com/in/angeline-dahl-63ba861bb)
 
 ## 📁 Projects
-Coming soon — data analysis, dashboards, visualizations, and more.
+- [View all projects](projects/README.md)
