@@ -15,14 +15,17 @@ I bring over 10 years of experience in banking operations and 3 years supporting
 
 I am known for analytical problem solving, pattern detection, and maintaining stable, high‑reliability workflows across complex systems.
 
-## 🛠️ Skills
-- **Programming & Analytics:** Python, pandas, NumPy, SQL, R, Excel  
-- **Data Operations:** Data validation, ETL support, anomaly detection, dataset onboarding  
-- **Tools:** Cognos Analytics, Jupyter, RStudio, Git, version control  
-- **Methods:** Exploratory data analysis, applied statistics, mixed methods evaluation  
-- **Systems:** Regulated technical environments, documentation accuracy, workflow reliability  
-- **Additional:** Survey design, theory of change modeling, reproducible workflows  
-- **Languages:** English (Fluent), French (Intermediate) 
+## 🛠️ Skills Matrix
+
+| Category | Skills |
+|----------|--------|
+| **Programming & Analytics** | Python, pandas, NumPy, SQL, R, Excel |
+| **Tools** | Cognos Analytics, Jupyter, RStudio, Git, GitHub |
+| **Data Operations** | Data validation, ETL support, anomaly detection, dataset onboarding |
+| **Methods** | Exploratory data analysis, applied statistics, mixed methods evaluation |
+| **Systems** | Regulated environments, workflow reliability, documentation accuracy |
+| **Additional** | Survey design, theory of change modeling, reproducible workflows |
+| **Languages** | English (Fluent), French (Intermediate) |
 
 ---
 
