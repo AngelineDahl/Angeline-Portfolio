@@ -62,3 +62,9 @@ This section will showcase my work in data analysis, dashboards, visualizations,
 
 ## All Projects
 - More projects will be added here as they are created.
+
+- ---
+
+<footer style="text-align:center; font-size: 0.9em; color: #666;">
+  © 2026 Angeline Nahjela Dahl • Andover, MN • <a href="mailto:angelinenahjela@gmail.com">angelinenahjela@gmail.com</a>
+</footer>
