@@ -11,12 +11,24 @@ This section will showcase my work in data analysis, dashboards, visualizations,
 
 ## Featured Projects
 
+<nav>
+  <a href="/angeline-portfolio/">Home</a> |
+  <a href="/angeline-portfolio/projects/README.html">Projects</a>
+</nav>
+
+---
 ### 📊 Tempe Crash Data Analysis (Lab 5)
 **Tools:** R, dplyr, data wrangling  
 **Summary:** Analyzed Tempe crash data to identify patterns in accident locations, time-of-day trends, age group risks, and harmful accident types.  
 **Outcome:** Insights support strategies for reducing injuries and improving public safety.  
 **Link:** **Link:** [View project details](lab5-tempe-crash-analysis.md)
 
+<nav>
+  <a href="/angeline-portfolio/">Home</a> |
+  <a href="/angeline-portfolio/projects/README.html">Projects</a>
+</nav>
+
+---
 ### 🌐 Publishing My CV & Résumé with GitHub Pages
 **Tools:** GitHub Pages, Markdown, HTML  
 **Summary:** Built and deployed online versions of my CV and résumé using GitHub Pages.  
@@ -24,14 +36,24 @@ This section will showcase my work in data analysis, dashboards, visualizations,
 **Link:** [View project details](publishing-cv-resume.md)
 
 ---
+<nav>
+  <a href="/angeline-portfolio/">Home</a> |
+  <a href="/angeline-portfolio/projects/README.html">Projects</a>
+</nav>
 
+---
 ### 🛠️ R Markdown Debugging & Document Stabilization
 **Tools:** R, R Markdown, HTML  
 **Summary:** Resolved unclosed div warnings, fixed YAML formatting issues, and stabilized an R Markdown document for clean HTML output.  
 **Outcome:** Produced a fully functional, error‑free HTML report ready for submission and publication.
 **Link:** [View project details](rmarkdown-debugging.md)
 ---
+<nav>
+  <a href="/angeline-portfolio/">Home</a> |
+  <a href="/angeline-portfolio/projects/README.html">Projects</a>
+</nav>
 
+---
 ### 📁 GitHub Repository Cleanup & Portfolio Setup
 **Tools:** Git, GitHub, repo management  
 **Summary:** Removed duplicate repositories, renamed projects, and created a clean structure for my portfolio hub.  
