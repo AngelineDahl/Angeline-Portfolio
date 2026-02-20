@@ -8,7 +8,7 @@ This section will showcase my work in data analysis, dashboards, visualizations,
 **Tools:** R, dplyr, data wrangling  
 **Summary:** Analyzed Tempe crash data to identify patterns in accident locations, time-of-day trends, age group risks, and harmful accident types.  
 **Outcome:** Insights support strategies for reducing injuries and improving public safety.  
-**Link:** *(Add link once the project is published)*
+**Link:** **Link:** [View project details](lab5-tempe-crash-analysis.md)
 
 ### 🌐 Publishing My CV & Résumé with GitHub Pages
 **Tools:** GitHub Pages, Markdown, HTML  
