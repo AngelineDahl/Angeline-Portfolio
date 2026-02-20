@@ -1,3 +1,5 @@
+<img src="assets/profile.jpg" alt="Angeline Nahjela Dahl" width="180" style="border-radius: 50%; margin-bottom: 20px;">
+
 # Angeline Nahjela Dahl
 
 ### Biomedical Assembler @ Medtronic | Python, SQL, Cognos Analytics | IBM Certified Data Analyst | MS Student | Banking Operations Background
