@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # Angeline Nahjela Dahl
 
 Welcome to my portfolio hub. This site connects all my professional links and projects.
