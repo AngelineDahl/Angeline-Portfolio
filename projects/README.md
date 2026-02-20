@@ -14,7 +14,7 @@ This section will showcase my work in data analysis, dashboards, visualizations,
 **Tools:** GitHub Pages, Markdown, HTML  
 **Summary:** Built and deployed online versions of my CV and résumé using GitHub Pages.  
 **Outcome:** Created a professional, shareable online presence with clean URLs and version‑controlled documents.  
-**Link:** https://angeline-dahl.github.io/cv/cv.html
+**Link:** [View project details](publishing-cv-resume.md)
 
 ---
 
@@ -22,13 +22,14 @@ This section will showcase my work in data analysis, dashboards, visualizations,
 **Tools:** R, R Markdown, HTML  
 **Summary:** Resolved unclosed div warnings, fixed YAML formatting issues, and stabilized an R Markdown document for clean HTML output.  
 **Outcome:** Produced a fully functional, error‑free HTML report ready for submission and publication.
-
+**Link:** [View project details](rmarkdown-debugging.md)
 ---
 
 ### 📁 GitHub Repository Cleanup & Portfolio Setup
 **Tools:** Git, GitHub, repo management  
 **Summary:** Removed duplicate repositories, renamed projects, and created a clean structure for my portfolio hub.  
 **Outcome:** Established a professional, organized GitHub presence and launched my `angeline-portfolio` site.
+**Link:** [View project details](github-cleanup-portfolio-setup.md)
 
 ## All Projects
 - More projects will be added here as they are created.
