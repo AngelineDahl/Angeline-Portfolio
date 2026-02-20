@@ -1,22 +1,42 @@
-<nav>
-  <a href="/angeline-portfolio/">Home</a> |
-  <a href="/angeline-portfolio/projects/README.html">Projects</a>
-</nav>
+# Angeline Nahjela Dahl
+
+### Data Analyst • Problem Solver • Technical Communicator
+
+Welcome to my professional portfolio. I specialize in data wrangling, analysis, and building clean, organized workflows. I enjoy transforming messy data into meaningful insights and creating polished, professional outputs.
 
 ---
 
-<link rel="stylesheet" href="style.css">
-# Angeline Nahjela Dahl
+## 🔍 About Me
+I’m a data analyst with experience in R, SQL, GitHub workflows, and technical troubleshooting.  
+I’m currently studying **Found Data Science II: Data Wrangling**, where I analyze real-world datasets and build reproducible workflows.
 
-Welcome to my portfolio hub. This site connects all my professional links and projects.
+I value clarity, accuracy, and clean structure in everything I build.
 
-## 📄 Documents
-- [CV](https://angeline-dahl.github.io/cv/cv.html)
-- [Résumé](https://angeline-dahl.github.io/resume/resume.html)
+---
+
+## 🛠️ Skills
+- **Data Analysis:** R, dplyr, tidyverse  
+- **Reporting:** R Markdown, HTML  
+- **Version Control:** Git, GitHub  
+- **Workflow:** Debugging, repo organization, documentation  
+- **Tools:** Excel, SQL basics, visualization tools  
+
+---
 
 ## 🌐 Profiles
 - [GitHub](https://github.com/AngelineDahl)
 - [LinkedIn](https://www.linkedin.com/in/angeline-dahl-63ba861bb)
 
+
+
+## 📄 CV & Résumé
+- [View my CV](https://angeline-dahl.github.io/cv/cv.html)  
+- [View my Résumé](https://angeline-dahl.github.io/resume/resume.html)
+
+---
+
 ## 📁 Projects
-- [View all projects](projects/README.md)
+Explore my full project list:  
+👉 [View all projects](projects/README.md)
+
+
