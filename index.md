@@ -1,3 +1,10 @@
+<nav>
+  <a href="/angeline-portfolio/">Home</a> |
+  <a href="/angeline-portfolio/projects/README.html">Projects</a>
+</nav>
+
+---
+
 <link rel="stylesheet" href="style.css">
 # Angeline Nahjela Dahl
 
