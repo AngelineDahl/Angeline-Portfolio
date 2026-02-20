@@ -1,3 +1,10 @@
+<nav>
+  <a href="/angeline-portfolio/">Home</a> |
+  <a href="/angeline-portfolio/projects/README.html">Projects</a>
+</nav>
+
+---
+
 # Projects
 
 This section will showcase my work in data analysis, dashboards, visualizations, and class assignments.
