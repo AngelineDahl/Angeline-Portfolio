@@ -1,25 +1,28 @@
 # Angeline Nahjela Dahl
 
-### Data Analyst • Problem Solver • Technical Communicator
+### Biomedical Assembler @ Medtronic • IBM Certified Data Analyst • MS Student in Program Evaluation & Data Analytics
 
-Welcome to my professional portfolio. I specialize in data wrangling, analysis, and building clean, organized workflows. I enjoy transforming messy data into meaningful insights and creating polished, professional outputs.
-
+Based in Andover, MN  
+angelinenahjela@gmail.com • (952) 380‑8144
 ---
 
 ## 🔍 About Me
-I’m a data analyst with experience in R, SQL, GitHub workflows, and technical troubleshooting.  
-I’m currently studying **Found Data Science II: Data Wrangling**, where I analyze real-world datasets and build reproducible workflows.
+I am a data analyst with hands-on training in Python, pandas, SQL, and Cognos Analytics, specializing in data integrity, operational reliability, and process improvement. I bring over 10 years of experience in banking operations and 3 years in regulated biomedical production at Medtronic, where I support mission‑critical workflows with accuracy, compliance, and stability.
 
-I value clarity, accuracy, and clean structure in everything I build.
+I am currently pursuing an MS in Program Evaluation & Data Analytics at Arizona State University. My background includes dual Bachelor’s degrees in Business Management and Organizational Leadership (Project Management), and recognition for leadership, reliability, and service excellence.
+
+I am known for analytical problem solving, pattern detection, and supporting stable, production‑critical systems.
 
 ---
 
 ## 🛠️ Skills
-- **Data Analysis:** R, dplyr, tidyverse  
-- **Reporting:** R Markdown, HTML  
-- **Version Control:** Git, GitHub  
-- **Workflow:** Debugging, repo organization, documentation  
-- **Tools:** Excel, SQL basics, visualization tools  
+- **Programming & Analytics:** Python, pandas, NumPy, SQL, R, Excel  
+- **Data Operations:** Data validation, ETL support, anomaly detection, dataset onboarding  
+- **Tools:** Cognos Analytics, Jupyter, RStudio, Git, version control  
+- **Methods:** Exploratory data analysis, applied statistics, mixed methods evaluation  
+- **Systems:** Regulated technical environments, documentation accuracy, workflow reliability  
+- **Additional:** Survey design, theory of change modeling, reproducible workflows  
+- **Languages:** English (Fluent), French (Intermediate) 
 
 ---
 
