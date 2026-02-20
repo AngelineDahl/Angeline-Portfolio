@@ -23,17 +23,17 @@ I value clarity, accuracy, and clean structure in everything I build.
 
 ---
 
-## 🌐 Profiles
-- [GitHub](https://github.com/AngelineDahl)
-- [LinkedIn](https://www.linkedin.com/in/angeline-dahl-63ba861bb)
-
-
-
 ## 📄 CV & Résumé
 - [View my CV](https://angeline-dahl.github.io/cv/cv.html)  
 - [View my Résumé](https://angeline-dahl.github.io/resume/resume.html)
 
 ---
+
+## 🌐 Profiles
+- [GitHub](https://github.com/AngelineDahl)
+- [LinkedIn](https://www.linkedin.com/in/angeline-dahl-63ba861bb)
+
+
 
 ## 📁 Projects
 Explore my full project list:  
